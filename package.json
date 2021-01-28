@@ -1,0 +1,22 @@
+{
+  "name": "np",
+  "version": "1.0.0",
+  "description": "мое приложение",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKUIK2020/js-katenm.git"
+  },
+  "author": "Kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TKUIK2020/js-katenm/issues"
+  },
+  "homepage": "https://github.com/TKUIK2020/js-katenm#readme",
+  "dependencies": {
+    "random-image-creator": "^2.0.2"
+  }
+}
